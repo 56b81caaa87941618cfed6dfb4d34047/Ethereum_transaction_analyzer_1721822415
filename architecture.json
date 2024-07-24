@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "add a button that says hello world"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a sidebar with the navlinks home, about and contact\nAI: Alright, I will add a sidebar with those navlinks.\nUser: add a button that says hello world\nAI: Great idea! I'm adding a button that says hello world.\nThis is the user's current request of changes to be made: add an button that says hello world"
     }
 ]
