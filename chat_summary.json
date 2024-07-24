@@ -18,5 +18,11 @@
         "content": "Alright, I will add a sidebar with those navlinks.",
         "timestamp": "24072024120048",
         "message_id": "guest24072024120047"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "24072024120133",
+        "message_id": "guest24072024120133"
     }
 ]
