@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add tooltips to 'Hello World' button explaining its function\", \"checked\": true}, {\"feature\": \"Include a modal popup with more information when 'Hello World' button is clicked\", \"checked\": false}, {\"feature\": \"Implement animations for 'Hello World' button on hover\", \"checked\": true}, {\"feature\": \"Enable keyboard accessibilities for 'Hello World' button for improved usability\", \"checked\": true}, {\"feature\": \"Add a loading animation to 'Hello World' button to indicate processing\", \"checked\": false}, {\"feature\": \"Integrate feedback form after 'Hello World' button is clicked\", \"checked\": false}], \"input_token_count\": 444, \"output_token_count\": 147, \"time_taken\": \"0:00:06.898727\"}",
+        "message_id": "guest24072024120750",
+        "timestamp": "24072024120759",
+        "component_file_name": "purple_background_cta_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Definitely, I'll add a button with \"Hello World\".",
         "message_id": "guest24072024120750",
