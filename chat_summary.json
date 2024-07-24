@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721822418",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "24072024120047",
-        "message_id": "guest24072024120047"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I will add a sidebar with those navlinks.",
-        "timestamp": "24072024120048",
-        "message_id": "guest24072024120047"
-    },
-    {
         "role": "user",
         "content": "add a button that says hello world",
-        "timestamp": "24072024120133",
-        "message_id": "guest24072024120133"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great idea! I'm adding a button that says hello world.",
-        "timestamp": "24072024120135",
-        "message_id": "guest24072024120133"
-    },
-    {
-        "role": "user",
-        "content": "add an button that says hello world",
-        "timestamp": "24072024120254",
-        "message_id": "guest24072024120254"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great idea! Adding a button that says \"Hello World\" now.",
-        "timestamp": "24072024120255",
-        "message_id": "guest24072024120254"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "timestamp": "24072024120320",
-        "message_id": "guest24072024120320"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, adding a button with the text \"Hello World\".",
-        "timestamp": "24072024120322",
-        "message_id": "guest24072024120320"
+        "message_id": "guest24072024120354",
+        "timestamp": "24072024120354",
+        "component_file_name": "purple_header_component_1721822418",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an interactive live chart to display the real-time transaction flow on Ethereum\", \"checked\": true}, {\"feature\": \"Implement a customizable alert system for transactions exceeding a defined value\", \"checked\": false}, {\"feature\": \"Incorporate a search functionality to filter transactions by address, hash, or value\", \"checked\": true}, {\"feature\": \"Include a tutorial section or tooltips for beginners explaining Ethereum transactions\", \"checked\": false}, {\"feature\": \"Offer a dark/light mode toggle for user interface preference\", \"checked\": true}, {\"feature\": \"Add a profile section for users to customize their alert preferences and view transaction history\", \"checked\": false}], \"input_token_count\": 320, \"output_token_count\": 138, \"time_taken\": \"0:00:06.595182\"}",
+        "message_id": "guest24072024120320",
         "timestamp": "24072024120329",
-        "message_id": "guest24072024120320"
+        "component_file_name": "purple_header_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button with the text \"Hello World\".",
+        "message_id": "guest24072024120320",
+        "timestamp": "24072024120322",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest24072024120320",
+        "timestamp": "24072024120320",
+        "component_file_name": "purple_header_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great idea! Adding a button that says \"Hello World\" now.",
+        "message_id": "guest24072024120254",
+        "timestamp": "24072024120255",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add an button that says hello world",
+        "message_id": "guest24072024120254",
+        "timestamp": "24072024120254",
+        "component_file_name": "purple_header_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great idea! I'm adding a button that says hello world.",
+        "message_id": "guest24072024120133",
+        "timestamp": "24072024120135",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest24072024120133",
+        "timestamp": "24072024120133",
+        "component_file_name": "purple_header_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I will add a sidebar with those navlinks.",
+        "message_id": "guest24072024120047",
+        "timestamp": "24072024120048",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest24072024120047",
+        "timestamp": "24072024120047",
+        "component_file_name": "purple_background_cta_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "24072024120354",
+        "message_id": "guest24072024120354"
     }
 ]
