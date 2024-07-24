@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest24072024120704",
+        "timestamp": "24072024120705",
+        "component_file_name": "purple_background_cta_component_1721822418",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Adding a \"Hello World\" button now.",
         "message_id": "guest24072024120354",
